@@ -1,0 +1,5 @@
+{
+  "name": "Smart Classroom Toolkit",
+  "description": "A comprehensive multi-tool application for teachers, featuring a QR code generator, a random name picker, a countdown timer with alarm, and interactive dice.",
+  "requestFramePermissions": []
+}
